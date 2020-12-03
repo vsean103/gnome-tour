@@ -33,12 +33,10 @@ msgid "_Start Tour"
 msgstr "_ចាប់ផ្តើមដំណើរកំសាន្ត"
 
 #: src/widgets/window.rs:52
-#, fuzzy
 msgid "Open Activities to launch apps"
 msgstr "បើក”សកម្មភាព”ដើម្បីចាប់ផ្តើមកម្មវិធីផ្សេងៗ"
 
 #: src/widgets/window.rs:53
-#, fuzzy
 msgid "The activities view can also be used to switch windows and search."
 msgstr "ទិដ្ឋភាពរបស់”សកម្មភាព” ក៏អាចត្រូវបានប្រើដើម្បីប្តូរបង្អួចផ្សេងៗ និងស្វែងរក។"
 
@@ -55,7 +53,6 @@ msgstr ""
 "រចនាសម្ព័ន្ធ និងច្រើនទៀត។"
 
 #: src/widgets/window.rs:72
-#, fuzzy
 msgid "Click the time to see notifications"
 msgstr "ចុចលើ”ម៉ោង”ដើម្បីមើលសេក្តីជូនដំណឹង"
 
@@ -72,7 +69,6 @@ msgid "Get an overview of the system status and quickly change settings."
 msgstr "មើលទិដ្ឋភាពទូទៅនៃស្ថានភាពរបស់ប្រព័ន្ធ និងផ្លាស់ប្តូរការកំណត់​រចនាសម្ព័ន្ធយ៉ាងឆាប់រហ័ស។"
 
 #: src/widgets/window.rs:92
-#, fuzzy
 msgid "Use Software to find and install apps"
 msgstr "ប្រើ”កម្មវិធី”ដើម្បីស្វែងរក និងដំឡើងកម្មវិធីផ្សេងៗ"
 
@@ -81,7 +77,6 @@ msgid "Discover great apps through search, browsing and our recommendations."
 msgstr "រកឃើញកម្មវិធីល្អៗតាមរយៈការស្វែងរក ការរុករកធម្មតា និងដំបូន្មានរបស់យើង។"
 
 #: src/widgets/window.rs:104
-#, fuzzy
 msgid "To get more advice and tips, see the Help app."
 msgstr "ដើម្បីទទួលដំបូន្មាន និងគន្លឹះ ចូរមើលកម្មវិធី”ជួយ”"
 
