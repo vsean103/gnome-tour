@@ -91,3 +91,11 @@ msgstr "_បិទ"
 #: src/widgets/paginator.rs:32
 msgid "_Previous"
 msgstr "_បកក្រោយ"
+
+#: src/widgets/pages/welcome.rs:155
+msgid "Welcome to {} {}"
+msgstr ""
+
+#: src/widgets/window.rs:103
+msgid "That's it! We hope that you enjoy {}."
+msgstr ""
